@@ -1,0 +1,15 @@
+C:\Users\90507\Desktop\Codes C#\exponent\bin\Debug\net7.0\exponent.exe
+C:\Users\90507\Desktop\Codes C#\exponent\bin\Debug\net7.0\exponent.deps.json
+C:\Users\90507\Desktop\Codes C#\exponent\bin\Debug\net7.0\exponent.runtimeconfig.json
+C:\Users\90507\Desktop\Codes C#\exponent\bin\Debug\net7.0\exponent.dll
+C:\Users\90507\Desktop\Codes C#\exponent\bin\Debug\net7.0\exponent.pdb
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.dll
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\refint\exponent.dll
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.pdb
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\exponent.genruntimeconfig.cache
+C:\Users\90507\Desktop\Codes C#\exponent\obj\Debug\net7.0\ref\exponent.dll
